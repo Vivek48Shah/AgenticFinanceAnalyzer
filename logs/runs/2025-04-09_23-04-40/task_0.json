@@ -1,0 +1,42 @@
+{
+  "task_id": "task_0",
+  "query": "Find a summary of tariffs imposed by the USA on various countries.",
+  "url_sources": [
+    "https://www.cbsnews.com/news/trump-reciprocal-tariffs-liberation-day-list/"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)follow us.*",
+      "matched": "Follow Us On"
+    },
+    {
+      "pattern": "(?i)feedback.*",
+      "matched": "Feedback"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms of Use"
+    },
+    {
+      "pattern": "(?i)privacy policy.*",
+      "matched": "Privacy Policy"
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All Rights Reserved."
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All rights reserved."
+    },
+    {
+      "pattern": "(?i)download our app.*",
+      "matched": "Download Our App"
+    },
+    {
+      "pattern": "(?i)download our app.*",
+      "matched": "Download Our App"
+    }
+  ],
+  "cleaned_content_preview": "Published Time: 2025-04-02T19:41:00-0400 See the full list of reciprocal tariffs by country from Trump's \"Liberation Day\" chart - CBS News Latest U.S. World Politics Trump Tariffs Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio Local News Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas 48 Hours 60 Minutes Shows 48 Hours 60 Minutes America Decides CBS Evening News CBS Mornings CBS Morning News CBS Reports CBS Saturday Morning The Daily Report The Dish Eye on America Face the Nation Here Comes the Sun Sunday Morning The Takeout The Uplift CBS News Investigates CBS News Confirmed CBS Village Podcasts Newsletters CBS News Team Executive Team Brand Studio Paramount+ Join Our Talent Community RSS Feeds Davos Interviews A Moment With... Innovators & Disruptors Economy 4.0 MoneyWatch | Managing Your Money CBS News Price Tracker Watch CBS News MoneyWatch See the full list of reciprocal tariffs by country from Trump's \"Liberation Day\" chart By Aimee Picchi Aimee Picchi Associate Managing Editor, MoneyWatch Aimee Picchi is the associate managing editor for CBS MoneyWatch, where she covers business and personal finance. She previously worked at Bloomberg News and has written for national news outlets including USA Today and Consumer Reports. ..."
+}

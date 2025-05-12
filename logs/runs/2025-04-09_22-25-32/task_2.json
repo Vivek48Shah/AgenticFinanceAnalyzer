@@ -1,0 +1,14 @@
+{
+  "task_id": "task_2",
+  "query": "Find stocks of companies that are likely to thrive in a tariff-implemented environment",
+  "url_sources": [
+    "https://www.morningstar.com/news/marketwatch/2025020390/these-are-the-companies-that-can-withstand-extreme-tariff-strain-says-morgan-stanleys-mike-wilson"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All rights reserved."
+    }
+  ],
+  "cleaned_content_preview": "These are the companies that can withstand extreme tariff strain, says Morgan Stanley's Mike Wilson By Barbara Kollmeyer The hunt for havens is likely to increase in the wake of President Trump's surprise tariffs on Canada and Mexico, and one Wall Street bank has flagged a group of U.S. stocks that it says can get the job done perfectly. equity strategist, Mike Wilson, sees the market rotating further toward services companies - financials, software, media, entertainment and consumer services - over consumer goods amid tariff concerns. The Vanguard Financials ETF VFH, for example, gained nearly 28% last year, from 11% in 2023, and is up 6.6% to start 2024. Consumer Staples ETF IYK has been struggling since 2022, up just 2.6% last year. \"Goods-oriented industries with stronger pricing power (multi-industry/capital goods) are better positioned to manage this than industries without it (consumer discretionary goods),\" Wilson told clients in a Monday note. Wilson's preference for services companies isn't new. Last month, he highlighted strong earnings momentum for that group, citing tariff risk as a potential overhang for valuations of consumer-goods companies. The former has an additional feather in his cap, he noted - the likelihood of benefiting from broader adoption of artificial intelligence, which has seen a renewed surge of interest since China's perceived cheaper AI DeepSeek grabbed market attention a week ago. Specifically, software, consumer services, healthcare equipme..."
+}

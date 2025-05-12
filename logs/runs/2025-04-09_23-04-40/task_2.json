@@ -1,0 +1,34 @@
+{
+  "task_id": "task_2",
+  "query": "Research the historical changes in USA tariffs over the past few years.",
+  "url_sources": [
+    "https://home.heinonline.org/blog/2025/02/10-most-significant-tariffs-in-u-s-history/"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)contact us.*",
+      "matched": "Contact Us Looking to connect us? Contact us via phone, email, or fax."
+    },
+    {
+      "pattern": "(?i)contact us.*",
+      "matched": "CONTACT US"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms: Access more than 1,200 trade-related terms to enhance your understanding and research. "
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms of Use"
+    },
+    {
+      "pattern": "(?i)privacy policy.*",
+      "matched": "Privacy Policy"
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All Rights Reserved."
+    }
+  ],
+  "cleaned_content_preview": "Published Time: 2025-02-11T14:00:00+00:00 10 Most Significant Tariffs in U.S. History - HeinOnline Blog Skip to content A Product of William S. Search COMPANY About Us Find our leadership and learn about our company history. Digital Services Learn about Hein's digital & preservation equipment. Testimonials Hear why so many have found smarter, better, faster research with HeinOnline. Publishing Partnerships Partner with HeinOnline to expand your reach. Press Releases See what we've released in the past few months. Diversity, Equity, & Inclusion Discover how we champion DEI initiatives within and beyond our company. Newsletters Stay updated on HeinOnline’s latest content, features, and updates. Logos Promote HeinOnline and Hein across your organization and to end users. PRODUCTS Databases Journals and Periodicals Access thousands of scholarly, international, and commercial journals. Federal Content Access federal documents, statutes, congressional records, and more. State Content Explore databases on state laws, history, and government documents. International Resources Browse international treaties, constitutions, and more. Special Collections Browse databases on Indigenous law, criminal justice, and more. New Databases Explore HeinOnline’s latest databases and discover new research resources. Subscriptions Annual Subscriptions Tailored database packages for seamless research, priced by institution. Short-Term Subscriptions Choose from 3 short-term subscription options to the ..."
+}

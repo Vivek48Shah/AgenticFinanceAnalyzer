@@ -1,0 +1,9 @@
+{
+  "task_id": "task_0",
+  "query": "Search for recent stock price of Hims",
+  "url_sources": [
+    "https://finance.yahoo.com/quote/HIMS/"
+  ],
+  "removed_matches": [],
+  "cleaned_content_preview": "Oops, something went wrong News Life Entertainment Finance Sports New on Yahoo Yahoo Finance Unlock stock picks and a broker-level newsfeed that powers Wall Street. (HIMS) -5.54% -17.97% 57.45% 21.96% 102.68% 199.39% 201.53% Hims & Hers Health, Inc. Overview Household & Personal Products / Consumer Defensive Hims & Hers Health, Inc. operates a telehealth platform that connects consumers to licensed healthcare professionals in the United States, the United Kingdom, and internationally. The company offers a range of curated prescription and non-prescription health and wellness products and services available to purchase on its websites and mobile application directly by customers. It also provides prescription medication on a recurring basis and ongoing care from healthcare providers; and over-the-counter drug and device products, cosmetics, and supplement products primarily focusing on general wellness, sexual health and wellness, skincare, and hair care. In addition, the company's curated non-prescription products include melatonin and biotin in the wellness specialty category; moisturizers, creams, sunscreen, serum, face oil, and face wash in the skincare specialty; condoms, climax delay spray and wipes, vibrators, and lubricants in the sexual health and wellness specialty; and shampoos, conditioners, scalp scrubs, and topical treatments, such as minoxidil in the hair care specialty category. Further, it offers medical consultation and post-consultation support services, as ..."
+}

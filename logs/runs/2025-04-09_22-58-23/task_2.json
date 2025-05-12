@@ -1,0 +1,34 @@
+{
+  "task_id": "task_2",
+  "query": "Identify key factors influencing tariff rates",
+  "url_sources": [
+    "https://fastercapital.com/articles/What-is-an-Import-Tariff-Rate-and-How-to-Calculate-It.html"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)contact us.*",
+      "matched": "Contact Us"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms, or even consider local manufacturing to mitigate the impact of tariffs."
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms with suppliers."
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms with suppliers to absorb some costs without sacrificing quality."
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms of number of startups that we have helped, money invested and money raised."
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All Rights Reserved."
+    }
+  ],
+  "cleaned_content_preview": "What is an Import Tariff Rate and How to Calculate It This page is a compilation of blog sections we have around this keyword. Since our content corner has now more than 1,500,000 articles, readers were asking for a feature that allows them to read/discover blogs that revolve around certain keywords. Get matched with over 155K angels and 50K VCs worldwide. We use our AI system and introduce you to investors through warm introductions! Submit here and get %10 discount FasterCapital will become the technical cofounder to help you build your MVP/prototype and provide full tech development services. Submission here allows you to get a FREE $35k business package. We build, review, redesign your pitch deck, business plan, financial model, whitepapers, and/or others! We help large projects worldwide in getting funded. We work with projects in real estate, construction, film production, and other industries that require large amounts of capital and help them find the right lenders, VCs, and suitable funding sources to close their funding rounds quickly! We help you study your market, customers, competitors, conduct SWOT analyses and feasibility studies among others! We provide a full online sales team and cover %50 of the costs. Get a FREE list of 10 potential customers with their names, emails and phone numbers. We work with you on content marketing, social media presence, and help you find expert marketing consultants and cover 50% of the costs. Table of Contents What is an Import ..."
+}

@@ -1,0 +1,18 @@
+{
+  "task_id": "task_0",
+  "query": "Find an overview of current tariffs by country",
+  "url_sources": [
+    "https://en.wikipedia.org/wiki/List_of_countries_by_tariff_rate"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms of SITC Revision 3 and all corresponding Harmonized System (HS) 6-digit codes have been aggregated for each category."
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms of SITC Revision 3 and all corresponding Harmonized System (HS) 6-digit codes have been aggregated for each category."
+    }
+  ],
+  "cleaned_content_preview": "List of countries by tariff rate This article needs to beupdated.Please help update this article to reflect recent events or newly available information.(April 2025) This is a list of countries by tariff rate. The list includes sovereign states and self-governing dependent territories based upon the ISO standard ISO 3166-1. Import duty refers to taxes levied on imported goods, capital and services. The level of customs duties is a direct indicator of the openness of an economy to world trade. However, there may also be import barriers that are not based on the levy of duties. The following table shows the tariff rate, in percentages, according to United Nations Conference on Trade and Development (UNCTAD),[1] World Trade Organization,[2] and World Bank.[3] UNCTAD indicators are based on MFN (Most Favoured Nation) and effectively applied import tariff rates for major categories of non-agricultural and non-fuel products by individual country (as market economy). Average tariff of a market country is calculated by taking into consideration all products that are imported by the market country, regardless of trade.[4] WTO indicators are based on MFN (Most Favoured Nation) tariffs applied by the reporting country/economy. Trade weighted average duty (Percent) means MFN applied tariff averages weighted with import flows for traded national tariff lines.[5] WB values are estimates, using the World Integrated Trade Solution system, based on data from United Nations Conference on Trade..."
+}

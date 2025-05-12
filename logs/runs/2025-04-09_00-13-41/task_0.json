@@ -1,0 +1,50 @@
+{
+  "task_id": "task_0",
+  "query": "Identify industries that historically perform well after the implementation of tariffs",
+  "url_sources": [
+    "https://allamerican.org/research/tariffs-and-american-manufacturing/"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)instagram\\b.*",
+      "matched": "Instagram"
+    },
+    {
+      "pattern": "(?i)instagram\\b.*",
+      "matched": "Instagram"
+    },
+    {
+      "pattern": "(?i)facebook\\b.*",
+      "matched": "Facebook"
+    },
+    {
+      "pattern": "(?i)facebook\\b.*",
+      "matched": "Facebook"
+    },
+    {
+      "pattern": "(?i)facebook\\b.*",
+      "matched": "Facebook Group"
+    },
+    {
+      "pattern": "(?i)twitter\\b.*",
+      "matched": "Twitter (X)"
+    },
+    {
+      "pattern": "(?i)youtube\\b.*",
+      "matched": "YouTube channel. He’s been buying products made in the USA for as long as he can remember. It’s in his blood, growing up working in American manufacturing."
+    },
+    {
+      "pattern": "(?i)youtube\\b.*",
+      "matched": "YouTube Channel"
+    },
+    {
+      "pattern": "(?i)youtube\\b.*",
+      "matched": "YouTube"
+    },
+    {
+      "pattern": "(?i)privacy policy.*",
+      "matched": "Privacy Policy"
+    }
+  ],
+  "cleaned_content_preview": "Published Time: 2025-02-03T09:10:33-05:00 Tariffs and the Future of American Manufacturing - AllAmerican.org Skip to content Menu Made in USA Lists Brand Investigations Interviews & Tours State-by-State Regulatory Research News Deals About Us Menu Made in USA Lists Brand Investigations Interviews & Tours State-by-State Regulatory Research News Deals About Us Tariffs and the Future of American Manufacturing February 4, 2025 by Mike For decades, American manufacturing has faced intense competition from cheap imports, outsourcing, and trade policies that have favored globalization over domestic production. But with the return of tariffs as a major policy tool, the question remains: Will tariffs revitalize American manufacturing, or will they create unintended consequences that harm the economy? Recent tariff implementations, particularly those targeting imports from China, Canada, and Mexico, have reignited this debate. While critics argue that tariffs increase consumer costs, history shows they can be a powerful tool for strengthening domestic industries, protecting American jobs, and ensuring long-term economic security. In this article, we’ll examine the role of tariffs in shaping American manufacturing, examining their historical impact, modern applications, and whether they truly benefit businesses that produce in the USA. A Historical Perspective: Tariffs Built America’s Economy America’s First Revenue Source Tariffs were once the backbone of the U.S. Before the federal in..."
+}

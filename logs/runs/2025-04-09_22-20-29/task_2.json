@@ -1,0 +1,14 @@
+{
+  "task_id": "task_2",
+  "query": "Look for news related to Reddit's business developments that may impact stock performance",
+  "url_sources": [
+    "https://markets.businessinsider.com/news/stocks/why-analysts-are-betting-big-on-reddit-stocks-future-growth-1033456843?op=1"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "terms or details on training data. Unlike Google’s deal, Reddit didn’t specify providing training data. Although OpenAI’s CEO is a Reddit shareholder, the partnership was independently approved. Reddit’s CEO emphasized its value in connecting people and communities."
+    }
+  ],
+  "cleaned_content_preview": "Why Analysts Are Betting Big on Reddit Stock’s Future Growth InvestorPlace - Stock Market News, Stock Advice & Trading Tips Amid social media upheavals, Reddit (NTSE:RDDT) continues to thrive as a platform. RDDT stock faced backlash over IPO expenses and developer pricing changes after going public in March. Collaborations with OpenAI and Alphabet (NASDAQ:GOOG) for AI integrations signal Reddit’s strategic evolution amid market competition. RDDT’s recent momentum stems partly from licensing agreements with AI firms, including Altman’s OpenAI, making it an intriguing AI data play. Despite its high price-to-sales ratio, Altman’s substantial stake underscores Reddit’s potential as an AI-centric platform. OpenAI and RDDT Stock OpenAI secured real-time Reddit data access, integrating discussions into ChatGPT and other tools. A deal akin to Reddit’s Google pact, it fosters AI-driven enhancements. OpenAI also joins Reddit as an advertising partner. Community reaction awaits, given past API-related protests. The blog post announcing the partnership didn’t disclose financial Previously, the company showed hostility toward data-scraping for AI training, considering blocking Google web crawlers. OpenAI also warned r/ChatGPT moderators for using its logo without permission, citing copyright infringement. Recent Earnings Report Reddit’s inaugural post-IPO earnings announcement delighted investors. The company posted $243 million in sales, surpassing expectations, with a loss of $8.19 per ..."
+}

@@ -1,0 +1,46 @@
+{
+  "task_id": "task_1",
+  "query": "Find historical stock performance data for Hims",
+  "url_sources": [
+    "https://finance.yahoo.com/quote/HIMS/history/"
+  ],
+  "removed_matches": [
+    {
+      "pattern": "(?i)feedback.*",
+      "matched": "Feedback"
+    },
+    {
+      "pattern": "(?i)feedback.*",
+      "matched": "Feedback"
+    },
+    {
+      "pattern": "(?i)feedback.*",
+      "matched": "Feedback"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms and Privacy Policy"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms and Privacy Policy"
+    },
+    {
+      "pattern": "(?i)terms.*",
+      "matched": "Terms "
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All rights reserved."
+    },
+    {
+      "pattern": "(?i)all rights reserved.*",
+      "matched": "All rights reserved."
+    }
+  ],
+  "cleaned_content_preview": "(HIMS) Stock Historical Prices & Data - Yahoo Finance News Today's news US Politics World Tech Reviews and deals Audio Computing Gaming Health Home Phones Science TVs Climate change Health Science Originals The 360 Newsletters Life Health COVID-19 Fall allergies Health news Mental health Relax Sexual health Studies The Unwind Parenting Family health So mini ways Style and beauty It Figures Unapologetically Horoscopes Shopping Buying guides Food Travel Autos Gift ideas Buying guides Entertainment Celebrity TV Movies Music How to Watch Interviews Videos Finance My Portfolio News Latest Stock Market Originals The Morning Brief Economies Tariff Updates Premium News Earnings Tech Housing Crypto Markets Stocks: Most Actives Stocks: Gainers Stocks: Losers Trending Tickers Futures World Indices US Treasury Bonds Rates Currencies Crypto Top ETFs Top Mutual Funds Options: Highest Open Interest Options: Highest Implied Volatility Sectors Basic Materials Communication Services Consumer Cyclical Consumer Defensive Energy Financial Services Healthcare Industrials Real Estate Technology Utilities Research Screeners Calendar Stock Comparison Advanced Chart Currency Converter Investment Ideas Research Reports Personal Finance Credit Cards Banking Best HYSA Student Loans Personal Loans Insurance Mortgages Mortgage Calculator Taxes Videos Latest Editor's Picks Investing Insights Trending Stocks All Shows Morning Brief Opening Bid Wealth ETF Report Options 101 Davos 2025 Streaming Now Sports Fan..."
+}
