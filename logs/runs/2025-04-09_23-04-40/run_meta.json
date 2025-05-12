@@ -1,8 +1,0 @@
-{
-  "run_id": "2025-04-09_23-04-40",
-  "timestamp": "2025-04-09T23:04:40.027452",
-  "status": "completed",
-  "input_query": "Summary of tarrifs imposed by usa on countries and which country was imposed highest ",
-  "total_tasks": 4,
-  "output_report_path": "logs/runs/2025-04-09_23-04-40/final_report.md"
-}

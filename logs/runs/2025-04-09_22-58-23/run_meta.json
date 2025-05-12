@@ -1,8 +1,0 @@
-{
-  "run_id": "2025-04-09_22-58-23",
-  "timestamp": "2025-04-09T22:58:23.810666",
-  "status": "completed",
-  "input_query": "Tarrifs Summary",
-  "total_tasks": 4,
-  "output_report_path": "logs/runs/2025-04-09_22-58-23/final_report.md"
-}

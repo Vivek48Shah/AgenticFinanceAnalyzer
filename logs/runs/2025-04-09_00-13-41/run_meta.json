@@ -1,8 +1,0 @@
-{
-  "run_id": "2025-04-09_00-13-41",
-  "timestamp": "2025-04-09T00:13:41.542966",
-  "status": "completed",
-  "input_query": "Industries that perfrom well after tarrifs ",
-  "total_tasks": 4,
-  "output_report_path": "logs/runs/2025-04-09_00-13-41/final_report.md"
-}

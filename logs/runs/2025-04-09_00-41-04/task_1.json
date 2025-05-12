@@ -1,9 +1,0 @@
-{
-  "task_id": "task_1",
-  "query": "Investigate stock price trends and historical data for HIMS in the past 6 months.",
-  "url_sources": [
-    "https://finance.yahoo.com/quote/HIMS/history/"
-  ],
-  "removed_matches": [],
-  "cleaned_content_preview": "Oops, something went wrong News Life Entertainment Finance Sports New on Yahoo Yahoo Finance Unlock stock picks and a broker-level newsfeed that powers Wall Street. (HIMS) Date | Open | High | Low | CloseClose price adjusted for splits. | Adj CloseAdjusted close price adjusted for splits and dividend and/or capital gain distributions. | Volume Apr 8, 2025 | 29.80 | 29.90 | 25.12 | 26.10 | 26.10 | 26,725,900 Apr 7, 2025 | 24.50 | 30.00 | 23.97 | 27.77 | 27.77 | 26,512,900 Apr 4, 2025 | 26.30 | 27.09 | 23.97 | 25.99 | 25.99 | 27,692,800 Apr 3, 2025 | 28.40 | 29.87 | 27.81 | 27.99 | 27.99 | 19,702,700 Apr 2, 2025 | 29.16 | 31.25 | 28.95 | 31.22 | 31.22 | 25,183,700 Apr 1, 2025 | 29.70 | 33.70 | 28.76 | 31.05 | 31.05 | 46,231,100 Mar 31, 2025 | 27.77 | 30.17 | 27.22 | 29.55 | 29.55 | 19,861,600 Mar 28, 2025 | 31.59 | 31.89 | 28.90 | 29.14 | 29.14 | 20,932,200 Mar 27, 2025 | 32.96 | 33.30 | 31.78 | 31.92 | 31.92 | 15,241,700 Mar 26, 2025 | 37.78 | 37.94 | 33.25 | 33.36 | 33.36 | 17,227,100 Mar 25, 2025 | 37.82 | 38.69 | 35.77 | 37.04 | 37.04 | 17,549,600 Mar 24, 2025 | 35.85 | 38.18 | 34.92 | 37.41 | 37.41 | 26,407,400 Mar 21, 2025 | 32.60 | 35.20 | 31.88 | 34.75 | 34.75 | 49,693,300 Mar 20, 2025 | 33.27 | 34.25 | 32.36 | 32.87 | 32.87 | 15,791,100 Mar 19, 2025 | 31.73 | 34.94 | 31.02 | 33.88 | 33.88 | 17,741,900 Mar 18, 2025 | 34.31 | 34.39 | 31.26 | 31.49 | 31.49 | 15,345,700 Mar 17, 2025 | 33.65 | 35.69 | 32.59 | 34.69 | 34.69 | 18,134,400 Mar 14, 2025 | 32.00 | 33.29 | 31.51 |..."
-}

@@ -1,8 +1,0 @@
-{
-  "run_id": "2025-04-09_22-09-50",
-  "timestamp": "2025-04-09T22:09:50.076554",
-  "status": "completed",
-  "input_query": "Hims Stock Performance",
-  "total_tasks": 4,
-  "output_report_path": "logs/runs/2025-04-09_22-09-50/final_report.md"
-}
